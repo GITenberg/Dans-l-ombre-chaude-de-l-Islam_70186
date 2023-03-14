@@ -1,5 +1,8 @@
 _repo: Dans-l-ombre-chaude-de-l-Islam_70186
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70186-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Barrucand, Victor
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Isabelle_Eberhardt
     - https://fr.wikipedia.org/wiki/Isabelle_Eberhardt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70186#Dans-l-ombre-chaude-de-l-Islam
 gutenberg_issued: '2023-03-02'
 identifiers:
   gutenberg: '70186'
